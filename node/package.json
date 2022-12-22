@@ -12,7 +12,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "md5-node": "^1.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mysql": "^2.17.1",
     "redis": "^2.8.0",
     "ali-oss": "^4.10.0",
